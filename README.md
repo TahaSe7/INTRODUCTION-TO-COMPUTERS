@@ -103,11 +103,6 @@ Modern computers are much smaller and more powerful. Technologies such as artifi
 ```text
 Input → Processing → Output → Storage
 
-**Important:** When you're typing this in GitHub, the three backticks around the code need to be on separate lines.
-
----
-
-## Step 6 — Add a task list
 
 ```markdown
 ## Project Checklist
@@ -117,6 +112,7 @@ Input → Processing → Output → Storage
 - [x] Add introduction
 - [x] Add types of computers
 - [x] Add history of computers
+- [x] Create three meaningful commits
 - [ ] Create Pull Request
 - [ ] Review changes
 - [ ] Merge Pull Request
