@@ -46,3 +46,88 @@ Embedded computers are built into other devices and perform specific tasks.
 | Personal Computer | Individual use |
 | Server | Network services |
 | Embedded Computer | Specific functions |
+
+
+## History of Computers
+
+The history of computers shows how computing devices developed from simple calculating tools into powerful modern machines.
+
+### Early Computing Devices
+
+The abacus was one of the earliest tools used to perform calculations. It helped people carry out arithmetic operations.
+
+### Mechanical Computers
+
+Charles Babbage designed the Analytical Engine, which introduced important ideas similar to those used in modern computers.
+
+### First Generation
+
+First-generation computers used vacuum tubes. They were very large, expensive, and consumed a lot of electricity.
+
+### Second Generation
+
+Second-generation computers used transistors instead of vacuum tubes. This made computers smaller, faster, and more reliable.
+
+### Third Generation
+
+Third-generation computers used integrated circuits, which allowed more components to fit into smaller spaces.
+
+### Fourth Generation
+
+Fourth-generation computers introduced microprocessors and led to the development of personal computers.
+
+### Modern Computers
+
+Modern computers are much smaller and more powerful. Technologies such as artificial intelligence, cloud computing, smartphones, and high-performance computing are now widely used.
+
+## Tools Used
+
+- GitHub
+- Git
+- Markdown
+- Web browser
+
+- ## Project Workflow
+
+1. Create the GitHub repository.
+2. Create a separate branch.
+3. Create and update the README.md file.
+4. Make meaningful commits.
+5. Push changes to GitHub.
+6. Create a Pull Request.
+7. Review the changes.
+8. Merge the Pull Request into the main branch.
+
+9. ## Basic Computer Process
+
+```text
+Input → Processing → Output → Storage
+
+**Important:** When you're typing this in GitHub, the three backticks around the code need to be on separate lines.
+
+---
+
+## Step 6 — Add a task list
+
+```markdown
+## Project Checklist
+
+- [x] Create GitHub repository
+- [x] Create student branch
+- [x] Add introduction
+- [x] Add types of computers
+- [x] Add history of computers
+- [ ] Create Pull Request
+- [ ] Review changes
+- [ ] Merge Pull Request
+
+## Useful Link
+
+[Visit GitHub](https://github.com/)
+
+## Student Information
+
+- **Name:** Muhammad Taha Memon
+- **Roll Number:** 26K-3114
+- **Course:** Introduction to Computers
+- **Repository:** Introduction-to-Computers
