@@ -2,6 +2,10 @@
 
 ## Project Description
 
+## Computer Image
+
+![Computers](row-of-office-computers-displaying-blue-screen-photo.jpeg)
+
 This project provides an introduction to computers, their basic concepts, different types, and the history of computer development.
 
 ## Introduction to Computers
